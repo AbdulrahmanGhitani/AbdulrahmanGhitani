@@ -32,7 +32,6 @@
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
 ![QtCreator](https://img.shields.io/badge/-Qt%20Creator%20-05122A?style=flat&logo=qt)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=django)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql)&nbsp;
 
 
