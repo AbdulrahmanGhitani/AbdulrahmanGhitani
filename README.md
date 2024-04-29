@@ -23,17 +23,18 @@
 <a href="https://linkedin.com/in/abdulrahman-shawky-77255324b" target="_blank"><img src="https://img.shields.io/badge/-A.S.G-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/abdulrahmanShawky" target="_blank"><img src="https://img.shields.io/badge/-A.S.G-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
+![QtCreator](https://img.shields.io/badge/-Qt%20Creator%20-05122A?style=flat&logo=qt)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![QtDesigner](https://img.shields.io/badge/-Qt%20Designer%20-05122A?style=flat&logo=qt)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql)&nbsp;
+![OpenGL](https://img.shields.io/badge/-OpenGL%20-05122A?style=flat&logo=opengl)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
-![QtCreator](https://img.shields.io/badge/-Qt%20Creator%20-05122A?style=flat&logo=qt)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql)&nbsp;
-
 
 
 
