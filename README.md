@@ -11,13 +11,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bio-Medical%20and%20Software%20Engineering;Don't%20Escape,%20Educate&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a BioMedical and Software Engineer interested in data science.
+- 🏢 I'm a BioMedical and Software Engineer interested in AI, Data Science, and Web Development
+- My focus is on leveraging technologies like machine learning, deep learning, computer vision,  (NLP),  (LLMs) to create innovative solutions in the medical field.
+-  I am passionate about integrating web development with AI-driven healthcare applications to improve patient outcomes and medical device efficiency.
 - 👨‍💻 As a SBME student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 <!--- - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.--->
 <!--- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. --->
 
-
+[![A.S.G Github States](https://github-readme-stats.vercel.app/api?username=AbdulrahmanGhitani&show_icons=true&theme=dracula)](https://github.com/AbdulrahmanGhitani/github-readme-stats)
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/abdulrahman-shawky-77255324b" target="_blank"><img src="https://img.shields.io/badge/-A.S.G-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
