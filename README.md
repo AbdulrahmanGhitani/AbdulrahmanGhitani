@@ -25,10 +25,15 @@
 <a href="https://linkedin.com/in/abdulrahman-shawky-77255324b" target="_blank"><img src="https://img.shields.io/badge/-A.S.G-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/abdulrahmanShawky" target="_blank"><img src="https://img.shields.io/badge/-A.S.G-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch%20-05122A?style=flat&logo=pytorch)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow%20-05122A?style=flat&logo=tensorflow)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn%20-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy%20-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas%20-05122A?style=flat&logo=pandas)&nbsp;
 ![QtCreator](https://img.shields.io/badge/-Qt%20Creator%20-05122A?style=flat&logo=qt)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![QtDesigner](https://img.shields.io/badge/-Qt%20Designer%20-05122A?style=flat&logo=qt)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL%20-05122A?style=flat&logo=sql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql)&nbsp;
 ![OpenGL](https://img.shields.io/badge/-OpenGL%20-05122A?style=flat&logo=opengl)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=php)&nbsp;
