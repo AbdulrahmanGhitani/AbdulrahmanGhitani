@@ -27,7 +27,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![PyTorch](https://img.shields.io/badge/-PyTorch%20-05122A?style=flat&logo=pytorch)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow%20-05122A?style=flat&logo=tensorflow)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn%20-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit/-/Learn%20-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy%20-05122A?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas%20-05122A?style=flat&logo=pandas)&nbsp;
 ![QtCreator](https://img.shields.io/badge/-Qt%20Creator%20-05122A?style=flat&logo=qt)&nbsp;
